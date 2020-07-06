@@ -17,3 +17,13 @@
 5. Retrieve football matches ordered by start_time.
 
 6. Retrieve matches filtered by name.
+
+### Steps to Run on Local Machine:
+
+- `$python3 -m venv <env_name>`
+- `$source <env_name>/bin/activate`
+- `$pip install -r requirements.txt`
+- `$python manage.py makemigrations`
+- `$python manage.py migrate`
+- `$python manage.py createsuperuser`
+- `$python manage.py runserver`
