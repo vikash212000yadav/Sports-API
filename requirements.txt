@@ -9,7 +9,7 @@ Django==3.0.8
 djangorestframework==3.11.0
 idna==2.10
 itypes==1.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 pyaml==20.4.0
